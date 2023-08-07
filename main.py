@@ -14,6 +14,7 @@ async def on_start(_):
     print("Бот запущен")
     print("first change to commit")
     print("second change to commit")
+    print("third change to commit")
 
 
 if __name__ == '__main__':
