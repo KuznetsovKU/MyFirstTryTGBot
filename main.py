@@ -12,6 +12,7 @@ async def on_start(_):
     except:
         print("FAILURE")
     print("Бот запущен")
+    print("first change to commit")
 
 
 if __name__ == '__main__':
